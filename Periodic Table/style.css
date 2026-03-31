@@ -1,0 +1,74 @@
+
+td{
+    width:40px;
+    height:40px;
+    empty-cells: hide;
+    border-radius: 4px;
+    
+}
+.set{
+    background-color: rgb(158, 91, 222);
+    text-align: center;
+
+}
+.set1{
+    background-color: #EEC492;
+    text-align: center;
+}
+.set2{
+    background-color: #fb6f92;
+    text-align: center;
+}
+.set3{
+    background-color: #FFD700;
+    text-align: center;
+}
+.set4{
+    background-color: #01796f;
+    text-align: center;
+
+}
+.set5{
+    background-color: #9FE2BF;
+    text-align: center;
+}
+.set6{
+    background-color: #4CBB17;
+    text-align: center;
+}
+.set7{
+    background-color: #FEE6BB;
+    text-align: center;
+}
+.set8{
+    background-color:tomato ;
+    text-align: center;
+}
+.set9{
+    background-color: #FF885B;
+    text-align: center;
+}
+.set10{
+    background-color: aqua;
+    text-align: center;
+}
+.set11{
+    background-color: gray;
+    text-align: center;
+}
+div{
+    background-color: #9DBDFF;
+    height: 80px;
+    text-align: center;
+    padding-top: 5px;
+}
+*{
+    font-family:sans-serif;
+    
+}
+
+
+
+
+
+    
