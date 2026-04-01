@@ -1,2 +1,5 @@
-This repository contains my first assignment : Periodic Table.
-Files Include HTML , CSS and screenshot of the output page.
+# This repository contains my Assignments and mini Projects : 
+ 
+1. Periodic Table : HTML , CSS and Screenshot of the output page.
+2. Login Page: HTML , CSS and Screenshot of the output page.
+
